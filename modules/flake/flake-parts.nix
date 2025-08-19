@@ -1,0 +1,4 @@
+{ settings, ... }:
+{
+  inherit (settings) debug;
+}
